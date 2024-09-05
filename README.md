@@ -29,24 +29,50 @@ The project addresses the challenge of sustainable groundwater management by tac
 **Lack of Proactive Planning:** Current water management practices often fail to account for long-term climate trends and future needs, leading to reactive rather than proactive decision-making
 
 
+# TECH STACK
+
+**FRONTEND:** REACTJS
+
+**VISUALIZATION**: POWER BI
+
+**FORECASTING ALGO**:SARIMAX
+
+
+# **WEBSITE OVERVIEW**
+
+
+
+
 ## HOME PAGE
 
 ![WhatsApp Image 2024-09-05 at 19 12 39_95591b70](https://github.com/user-attachments/assets/cde0f113-0268-4a9e-8465-2e6d7b255dec)
 
 
 
+## POWER BI VISUALIZATION
 
-## VISUALIZATION
+![Screenshot 2024-09-04 212631](https://github.com/user-attachments/assets/92234e05-d090-4289-a05b-e11f65049b97)
+
+
 
 ![Screenshot 2024-09-05 050354](https://github.com/user-attachments/assets/cba533ba-2126-4ad9-8d34-bc3aca2fbba7)
 
 
 
-![Screenshot 2024-09-04 212631](https://github.com/user-attachments/assets/c3c7029c-7a5f-467c-a33d-2651fca364ea)
+
+# VISUALIZOR
+
+### HOME PAGE OF VISUALIZOR
 
 
 
+![Screenshot 2024-09-05 203248](https://github.com/user-attachments/assets/63202236-a605-4fb3-b811-e55441aaa0e9)
+
+
+### WORKING OF VISUALIZOR
 
 
 
+![Screenshot 2024-09-05 203432](https://github.com/user-attachments/assets/00d61cbe-23a0-49c1-ac76-a2a4c6bbbb68)
 
+### EXAMPLE OF GRAPH REPRESENTATION
