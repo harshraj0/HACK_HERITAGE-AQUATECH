@@ -36,4 +36,17 @@ The project addresses the challenge of sustainable groundwater management by tac
 
 
 
+## VISUALIZATION
+
+![Screenshot 2024-09-05 050354](https://github.com/user-attachments/assets/cba533ba-2126-4ad9-8d34-bc3aca2fbba7)
+
+
+
+![Screenshot 2024-09-04 212631](https://github.com/user-attachments/assets/c3c7029c-7a5f-467c-a33d-2651fca364ea)
+
+
+
+
+
+
 
