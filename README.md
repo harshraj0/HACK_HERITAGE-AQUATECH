@@ -28,3 +28,12 @@ The project addresses the challenge of sustainable groundwater management by tac
 
 **Lack of Proactive Planning:** Current water management practices often fail to account for long-term climate trends and future needs, leading to reactive rather than proactive decision-making
 
+
+## HOME PAGE
+
+![WhatsApp Image 2024-09-05 at 19 12 39_95591b70](https://github.com/user-attachments/assets/cde0f113-0268-4a9e-8465-2e6d7b255dec)
+
+
+
+
+
